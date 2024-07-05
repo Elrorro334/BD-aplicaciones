@@ -1,7 +1,7 @@
 # Base de datos para aplicaciones
 
-![ 'Imagen Base de datos' ]
-(./img/BD.png)
+![Imagen Base de datos](./Diagnosstico/img/BD.png)
+
 ---
 
 En este repositorio se pueden encontrar temas y ejercicios de base de datos para aplicaciones tales como:
