@@ -1,10 +1,10 @@
 -- Crear la base de datos AlmacenDatos
 CREATE DATABASE AlmacenDatos;
-GO
+
 
 -- Usar la base de datos AlmacenDatos
 USE AlmacenDatos;
-GO
+
 
 -- Crear la tabla Customers
 CREATE TABLE Customers (
@@ -16,10 +16,9 @@ CREATE TABLE Customers (
     Region nvarchar(15) NULL,
     Country nvarchar(15) NULL,
     CONSTRAINT PK_Customers PRIMARY KEY CLUSTERED (ClienteId),
-    CONSTRAINT fk_
-    
+    CONSTRAINT fk_  
 );
-GO
+
 
 -- Crear la tabla Ventas
 CREATE TABLE Ventas (
